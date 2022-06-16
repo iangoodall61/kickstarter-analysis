@@ -7,6 +7,7 @@ Performing analysis on Kickstarter data to uncover trends
 ## Analysis and Challenges
 
 ### The analysis of the outcomes based on launch date began by adding an extra column to the data to pull out the beginning year in which each play was created. Then I was able to create a pivot table that counted the number of successful, failed, and canceled projects and broke it down by the months in which they were launched. I added a line graph to better visualize the results. 
+![image](https://user-images.githubusercontent.com/107015694/174034163-c82763b4-71a4-4f5e-9bb4-b8af69894613.png)
 
 ### The analysis of the outcomes based on goals was completed by creating a new table to further map out the successful, failed, and canceled projects. I broke down the initial goal amount into different dollar amount ranges. I was then able to count the percentages for each of the successful, failed, and canceled projects after calculating the total number of projects within each goal amount. Using these percentages, I was able to create a line graph to visualize this information. 
 
