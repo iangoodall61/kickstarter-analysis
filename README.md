@@ -10,8 +10,10 @@ Performing analysis on Kickstarter data to uncover trends
 ![image](https://user-images.githubusercontent.com/107015694/174034163-c82763b4-71a4-4f5e-9bb4-b8af69894613.png)
 
 ### The analysis of the outcomes based on goals was completed by creating a new table to further map out the successful, failed, and canceled projects. I broke down the initial goal amount into different dollar amount ranges. I was then able to count the percentages for each of the successful, failed, and canceled projects after calculating the total number of projects within each goal amount. Using these percentages, I was able to create a line graph to visualize this information. 
+![image](https://user-images.githubusercontent.com/107015694/174034319-3bc00621-88f3-4d60-83ca-42e596e014b1.png)
 
 ### The first challenge I ran into was making sure I have the correct values in the correct spots in the pivot table. I had to manipulate the rows in order to get all the months to show as the row values. When I added in the date created conversion column to the rows it initially showed more information than I needed to I had to remove the extra added in columns under the rows. The second challenge I faced came when I was creating the outcomes based on goals chart. I needed to make sure I had the correct order for the countifs formula I used. Initially I had it backwards, so I had to swap the criteria ranges around, making sure to start with the goal amount range, then outcomes results, followed by the play subcategory.
+![image](https://user-images.githubusercontent.com/107015694/174034366-cb529364-6593-4b01-bb4f-ec0448b3a968.png)
 
 ## Results
 
